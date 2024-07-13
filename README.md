@@ -14,6 +14,7 @@ Responsive Design: The webpage is styled using CSS to ensure a seamless experien
 PHP: Server-side scripting language for dynamic content generation.
 SQL: Database management for storing user information, posts, and comments.
 CSS: Styling to create an appealing and responsive user interface.
+MAMP: The tool used to run the program
 
 ## Installation
 Run the php project the way you prefer. I used MAMP. Go to ./instal.php to install the data base, then go to ./login.php to start.
